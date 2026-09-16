@@ -1,206 +1,229 @@
-<!-- ========================================================= -->
-<!--                 MOHAMED AJMAL M                           -->
-<!--              PROFESSIONAL GITHUB PROFILE                  -->
-<!--        DEVOPS • CLOUD • FULL-STACK • AI                  -->
-<!-- ========================================================= -->
-
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:111827,45:1E1B4B,70:4C1D95,100:7C3AED&height=300&section=header&text=Mohamed%20Ajmal%20M&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=DevOps%20%7C%20Cloud%20%7C%20Full-Stack%20%7C%20AI&descSize=20&descAlignY=56"
-    alt="Mohamed Ajmal M Header"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,45:302B63,100:8E2DE2&height=260&section=header&text=Mohamed%20Ajmal%20M&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DevOps%20%7C%20Cloud%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=57" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=1000&lines=DevOps+%26+Cloud+Enthusiast;Cloud+Infrastructure+Builder;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Learner;Full-Stack+Developer;AI-Assisted+Developer;Learning+%7C+Building+%7C+Deploying"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+Engineer;Full-Stack+Developer;CI%2FCD+%26+Infrastructure+Automation" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&labelColor=020617"
-    alt="B.Tech CSE"
-  />
-  <img
-    src="https://img.shields.io/badge/SRMIST-2028-4F46E5?style=for-the-badge&labelColor=020617"
-    alt="SRMIST"
-  />
-  <img
-    src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-8B5CF6?style=for-the-badge&labelColor=020617"
-    alt="DevOps and Cloud"
-  />
+  <img src="https://img.shields.io/badge/YOUR_DEGREE-YOUR_BRANCH-7C3AED?style=flat-square&labelColor=0D1117" alt="Degree" />
+  <img src="https://img.shields.io/badge/YOUR_COLLEGE-4F46E5?style=flat-square&labelColor=0D1117" alt="College" />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Linux-DevOps-111827?style=for-the-badge&logo=linux&logoColor=white"
-    alt="Linux"
-  />
-  <img
-    src="https://img.shields.io/badge/AWS-Cloud-111827?style=for-the-badge&logo=amazonaws&logoColor=white"
-    alt="AWS"
-  />
-  <img
-    src="https://img.shields.io/badge/Docker-Containers-111827?style=for-the-badge&logo=docker&logoColor=white"
-    alt="Docker"
-  />
-  <img
-    src="https://img.shields.io/badge/Kubernetes-Orchestration-111827?style=for-the-badge&logo=kubernetes&logoColor=white"
-    alt="Kubernetes"
-  />
+  <img src="https://img.shields.io/badge/YOUR_CITY%2C%20YOUR_STATE%2C%20India-111827?style=flat-square&logo=googlemaps&logoColor=A78BFA&labelColor=0D1117" alt="Location" />
 </p>
 
 <p align="center">
-
-  <a href="mailto:mohamedajmal1612@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-mohamedajmal1612%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="[YOUR_GITHUB_URL]">
-    <img
-      src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="[YOUR_LINKEDIN_URL]">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="[YOUR_PORTFOLIO_URL]">
-    <img
-      src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedajmaal1612@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-
-  <img
-    src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=for-the-badge&logo=github&logoColor=white&color=4F46E5&labelColor=020617"
-    alt="GitHub Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/[YOUR_GITHUB_USERNAME]?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=020617"
-    alt="GitHub Stars"
-  />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&color=4F46E5&label=Followers&labelColor=0D1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&color=8B5CF6&label=Stars&labelColor=0D1117" alt="GitHub Stars" />
 </p>
 
 ---
 
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">About</h2>
+
+I am **Mohamed Ajmal M**, a DevOps, Cloud, and Full-Stack Developer focused on building and automating reliable, scalable systems — from writing application code to deploying and monitoring it in production.
+
+My work spans CI/CD pipeline design, cloud infrastructure (provisioning, scaling, cost optimization), containerization, and full-stack web development. I enjoy owning the full lifecycle of a product: writing the frontend/backend, containerizing it, automating its deployment, and keeping it observable and secure in the cloud.
+
+I'm especially interested in Infrastructure as Code, Kubernetes, CI/CD automation, cloud-native architecture, and building full-stack products that are easy to ship and easy to operate.
 
 <p align="center">
-  <b>
-    Computer Science Student • DevOps Learner • Cloud Enthusiast • Developer
-  </b>
-</p>
-
-<p align="center">
-  I am a Computer Science student focused on building practical expertise in
-  <b>
-    DevOps, Cloud Computing, Automation, Full-Stack Development,
-    and AI-assisted development.
-  </b>
-</p>
-
-<p align="center">
-  My current learning journey is centered around understanding how modern
-  applications move from
-  <b>
-    development → containerization → CI/CD → cloud deployment → monitoring
-  </b>.
-</p>
-
-<p align="center">
-  I enjoy learning through hands-on projects involving
-  <b>
-    Linux, Git, AWS, Docker, Terraform, Kubernetes, CI/CD,
-    and modern web technologies.
-  </b>
-</p>
-
-<p align="center">
-  I am continuously improving my engineering fundamentals while building
-  practical projects around cloud infrastructure, automation, deployment,
-  and software development.
+  <img src="https://img.shields.io/badge/Open%20To-DevOps%20Engineering-7C3AED?style=for-the-badge&labelColor=0D1117" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Open%20To-Cloud%20Engineering-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Cloud Engineering" />
+  <img src="https://img.shields.io/badge/Open%20To-Full--Stack%20Development-312E81?style=for-the-badge&labelColor=0D1117" alt="Full Stack Development" />
+  <img src="https://img.shields.io/badge/Open%20To-Open%20Source%20Collaboration-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Open Source Collaboration" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Professional Focus</h2>
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,bash" alt="Languages" />
+</p>
 
-  <img
-    src="https://img.shields.io/badge/DevOps-7C3AED?style=for-the-badge&labelColor=020617"
-    alt="DevOps"
-  />
+<h3 align="center">Frontend</h3>
 
-  <img
-    src="https://img.shields.io/badge/Cloud%20Computing-4F46E5?style=for-the-badge&labelColor=020617"
-    alt="Cloud Computing"
-  />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" alt="Frontend" />
+</p>
 
-  <img
-    src="https://img.shields.io/badge/Cloud%20Automation-8B5CF6?style=for-the-badge&labelColor=020617"
-    alt="Cloud Automation"
-  />
+<h3 align="center">Backend & Databases</h3>
 
-  <img
-    src="https://img.shields.io/badge/Full--Stack-6D28D9?style=for-the-badge&labelColor=020617"
-    alt="Full Stack"
-  />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend and Databases" />
+</p>
 
-  <img
-    src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge&labelColor=020617"
-    alt="Generative AI"
-  />
+<h3 align="center">DevOps & Cloud</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,aws,azure,gcp,githubactions,ansible,nginx" alt="DevOps and Cloud" />
+</p>
+
+<h3 align="center">Tooling</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,grafana,prometheus" alt="Tooling" />
 </p>
 
 ---
 
-<h2 align="center">🧠 Engineering Mindset</h2>
+<h2 align="center">DevOps & Cloud Expertise</h2>
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| CI/CD Pipelines | Advanced | Designs and maintains automated build, test, and deployment pipelines using GitHub Actions / Jenkins. |
+| Containerization | Advanced | Builds and manages Docker images and Kubernetes deployments for scalable, portable services. |
+| Cloud Infrastructure | Intermediate to Advanced | Provisions and manages cloud resources (AWS/Azure/GCP) with a focus on reliability and cost efficiency. |
+| Infrastructure as Code | Intermediate to Advanced | Uses Terraform/Ansible to define and automate infrastructure provisioning and configuration. |
+| Monitoring & Observability | Intermediate | Sets up logging, metrics, and alerting using tools like Prometheus and Grafana. |
+| Full-Stack Development | Advanced | Builds end-to-end web applications with modern frontend and backend frameworks. |
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+<details>
+<summary><b>Project Name 1</b></summary>
+
+<br>
+
+Short description of what this project does and the problem it solves.
+
+| Dimension | Details |
+| :--- | :--- |
+| Stack | e.g. React, Node.js, Docker, AWS |
+| Scale | e.g. Deployed on cloud with CI/CD pipeline |
+| Performance | Key performance/optimization details |
+| Security | Key security measures taken |
+| Impact | What outcome/value it delivers |
+| Repository | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO) · [Live](https://your-live-link.com) |
+
+</details>
+
+<details>
+<summary><b>Project Name 2</b></summary>
+
+<br>
+
+Short description of what this project does and the problem it solves.
+
+| Dimension | Details |
+| :--- | :--- |
+| Stack | e.g. Kubernetes, Terraform, Jenkins |
+| Scale | Details here |
+| Performance | Details here |
+| Security | Details here |
+| Impact | Details here |
+| Repository | [GitHub](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO) |
+
+</details>
+
+---
+
+<h2 align="center">Achievements</h2>
+
+<div align="center">
+
+| Recognition | Details |
+| :---: | :--- |
+| Add your achievement | Details here |
+| Add your achievement | Details here |
+
+</div>
+
+---
+
+<h2 align="center">Certifications</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/YOUR-CERTIFICATION-312E81?style=for-the-badge&labelColor=0D1117" alt="Certification" />
+  <img src="https://img.shields.io/badge/YOUR-CERTIFICATION-4F46E5?style=for-the-badge&labelColor=0D1117" alt="Certification" />
+</p>
 
-```text
-┌───────────────┐
-│     BUILD     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│  CONTAINERIZE │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│   AUTOMATE    │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    DEPLOY     │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    MONITOR    │
-└───────┬───────┘
-        ↓
-┌───────────────┐
-│    IMPROVE    │
-└───────────────┘
+---
+
+<h2 align="center">Coding Profiles</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-YOUR_USERNAME-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-YOUR_USERNAME-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
+
+---
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub Streak" />
+</p>
+
+---
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C084FC&area=true&area_color=7C3AED&hide_border=true&custom_title=Mohamed%20Ajmal%20M%20Contribution%20Graph" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+<h2 align="center">Current Focus</h2>
+
+```yaml
+learning:
+  - Kubernetes and container orchestration at scale
+  - Infrastructure as Code (Terraform, Ansible)
+  - Cloud architecture and cost optimization
+  - Advanced CI/CD pipeline design
+
+building:
+  - Full-stack web applications with automated deployment pipelines
+  - Cloud-native, containerized services
+  - DevOps automation tooling
+
+exploring:
+  - Site Reliability Engineering practices
+  - Serverless architecture
+  - Observability and monitoring stacks
+
+open_to:
+  - DevOps Engineering Roles
+  - Cloud Engineering Roles
+  - Full-Stack Developer Roles
+  - Open Source Collaboration
+```
+
+---
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="mailto:mohamedajmaal1612@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+<p align="center">
+  <b>Engineering reliable, automated, and scalable systems from code to cloud.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:302B63,100:0F0C29&height=140&section=footer" alt="Footer Banner" />
+</p>
