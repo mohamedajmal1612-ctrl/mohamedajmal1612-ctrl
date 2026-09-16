@@ -196,3 +196,142 @@
                          ┌──────────────────────┐
                          │ MONITORING & SRE     │
                          └──────────────────────┘
+<h2 align="center">🚀 Featured Projects</h2> <details> <summary><b>☁️ End-to-End Cloud Deployment Pipeline</b></summary> <br> <p> An end-to-end DevOps project focused on cloud deployment, infrastructure automation, containerization, CI/CD, and Kubernetes-based workloads. </p>
+| Dimension          | Details                                                                               |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| **Cloud**          | AWS                                                                                   |
+| **Infrastructure** | Terraform                                                                             |
+| **Containers**     | Docker                                                                                |
+| **Orchestration**  | Kubernetes / Amazon EKS                                                               |
+| **CI/CD**          | GitHub Actions                                                                        |
+| **Focus**          | Cloud deployment, automation, infrastructure provisioning and containerized workloads |
+🔧 Engineering Areas
+Infrastructure as Code
+Automated CI/CD workflows
+Docker-based deployment
+Kubernetes workloads
+AWS cloud infrastructure
+Deployment automation
+
+Repository: [ADD_REPOSITORY_URL]
+
+</details>
+<details> <summary><b>🔄 CI/CD Pipeline for a Multi-Service Application</b></summary> <br> <p> A CI/CD project focused on automated build, testing, staging, production promotion, deployment workflows, and rollback. </p>
+| Dimension            | Details                                       |
+| -------------------- | --------------------------------------------- |
+| **CI/CD**            | GitHub Actions                                |
+| **Containerization** | Docker                                        |
+| **Deployment**       | Automated Pipeline                            |
+| **Focus**            | Build, test, staging, production and rollback |
+🔧 Engineering Areas
+Automated build pipeline
+Continuous integration
+Container image workflows
+Environment-based deployment
+Production promotion
+Rollback strategy
+
+Repository: [ADD_REPOSITORY_URL]
+
+</details>
+<details> <summary><b>☸️ Kubernetes Cluster Deployment with Auto-Scaling</b></summary> <br> <p> A Kubernetes-focused cloud project exploring scalable workloads using Amazon EKS, Horizontal Pod Autoscaling, ingress, and load balancing. </p>
+| Dimension         | Details                   |
+| ----------------- | ------------------------- |
+| **Cloud**         | AWS                       |
+| **Cluster**       | Amazon EKS                |
+| **Orchestration** | Kubernetes                |
+| **Scaling**       | Horizontal Pod Autoscaler |
+| **Networking**    | Ingress & Load Balancing  |
+| Dimension         | Details                   |
+🔧 Engineering Areas
+Kubernetes cluster deployment
+Application scaling
+Resource-based autoscaling
+Ingress configuration
+Load balancing
+Cloud-native deployment concepts
+
+Repository: [ADD_REPOSITORY_URL]
+
+</details>
+<details> <summary><b>🏗️ Infrastructure as Code with Terraform</b></summary> <br> <p> A cloud infrastructure project focused on reproducible AWS provisioning using Terraform and infrastructure automation practices. </p>
+| Dimension          | Details                                  |
+| ------------------ | ---------------------------------------- |
+| **Cloud Provider** | AWS                                      |
+| **IaC Tool**       | Terraform                                |
+| **Focus**          | Infrastructure automation                |
+| **Approach**       | Reproducible infrastructure provisioning |
+🔧 Engineering Areas
+Terraform configuration
+Infrastructure provisioning
+Declarative infrastructure
+Resource management
+Cloud automation
+
+Repository: [ADD_REPOSITORY_URL]
+
+</details>
+<details> <summary><b>📊 Monitoring & Logging Stack</b></summary> <br> <p> A monitoring and observability project focused on metrics, dashboards, logging, and alerting workflows. </p>
+| Dimension         | Details                                              |
+| ----------------- | ---------------------------------------------------- |
+| **Metrics**       | Prometheus                                           |
+| **Visualization** | Grafana                                              |
+| **Logging**       | ELK / Loki                                           |
+| **Alerts**        | Slack                                                |
+| **Focus**         | Monitoring, observability and operational visibility |
+🔧 Engineering Areas
+Infrastructure monitoring
+Metrics collection
+Dashboard creation
+Centralized logging
+Alerting workflows
+Operational visibility
+
+Repository: [ADD_REPOSITORY_URL]
+
+</details>
+<details> <summary><b>📋 Attendance Tracker</b></summary> <br> <p> A practical application focused on organizing attendance-related information through a structured digital workflow. </p>
+| Dimension       | Details                      |
+| --------------- | ---------------------------- |
+| **Category**    | Application Development      |
+| **Focus**       | Attendance Management        |
+| **Development** | Full-Stack / Web Development |
+Repository: [ADD_REPOSITORY_URL]
+
+</details>
+<details> <summary><b>💳 Bismi Billing Website</b></summary> <br> <p> A web-based project focused on providing a structured digital interface for billing-related workflows. </p>
+| Dimension       | Details          |
+| --------------- | ---------------- |
+| **Category**    | Web Application  |
+| **Focus**       | Billing Workflow |
+| **Development** | Web Development  |
+Repository: [ADD_REPOSITORY_URL]
+
+</details>
+<details> <summary><b>🤖 Robo Thinkers Website</b></summary> <br> <p> A modern interactive website for Robo Thinkers with a technology-focused visual experience and contemporary frontend architecture. </p>
+| Dimension              | Details                           |
+| ---------------------- | --------------------------------- |
+| **Frontend**           | Next.js                           |
+| **Styling**            | Tailwind CSS                      |
+| **Backend / Database** | Supabase                          |
+| **Deployment**         | Vercel                            |
+| **Design Direction**   | Modern Cyberpunk / Interactive UI |
+🔧 Key Engineering Areas
+Responsive frontend development
+Modern UI design
+Supabase integration
+Vercel deployment
+Interactive event presentation
+AI-assisted features
+
+Repository: [ADD_REPOSITORY_URL]
+
+Live: [ADD_LIVE_URL]
+</details>
+<h2 align="center">💼 Experience</h2> <h3 align="center">Full Stack Developer Intern — ALFIDO TECH</h3> <p align="center"> <img src="https://img.shields.io/badge/Duration-15%20Days-7C3AED?style=for-the-badge&labelColor=020617" alt="15 Days" /> <img src="https://img.shields.io/badge/Mode-Remote-4F46E5?style=for-the-badge&labelColor=020617" alt="Remote" /> <img src="https://img.shields.io/badge/December-2025-8B5CF6?style=for-the-badge&labelColor=020617" alt="December 2025" /> </p> <p align="center"> Practical exposure to frontend development, web application development, development workflows, and project collaboration. </p>
+Experience Highlights
+Worked on practical frontend development tasks.
+Gained hands-on exposure to web application development.
+Strengthened development workflow and project collaboration skills.
+Applied programming and web development concepts in a practical environment.
+<h2 align="center">🎓 Education</h2> <p align="center"> <b>B.Tech Computer Science and Engineering</b> </p> <p align="center"> SRM Institute of Science and Technology </p> <p align="center"> <img src="https://img.shields.io/badge/Batch-2024--2028-7C3AED?style=for-the-badge&labelColor=020617" alt="2024 to 2028" /> </p> <h3 align="center">Academic Focus</h3> <p align="center"> Computer Science Fundamentals • Data Structures & Algorithms • Computer Networks • Database Systems • Software Development • Cloud Computing • DevOps • Artificial Intelligence </p>
