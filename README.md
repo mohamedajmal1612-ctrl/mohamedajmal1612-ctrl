@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOUR_DEGREE-YOUR_BRANCH-7C3AED?style=flat-square&labelColor=0D1117" alt="Degree" />
-  <img src="https://img.shields.io/badge/YOUR_COLLEGE-4F46E5?style=flat-square&labelColor=0D1117" alt="College" />
+  <img src="https://img.shields.io/badge/YOUR_DEGREE-YOUR_BRANCH-7C3AED?style=flat-square&labelColor=0D1117" alt="B.TECH" />
+  <img src="https://img.shields.io/badge/YOUR_COLLEGE-4F46E5?style=flat-square&labelColor=0D1117" alt="SRM Institute of Science and Technology" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOUR_CITY%2C%20YOUR_STATE%2C%20India-111827?style=flat-square&logo=googlemaps&logoColor=A78BFA&labelColor=0D1117" alt="Location" />
+  <img src="https://img.shields.io/badge/YOUR_CITY%2C%20YOUR_STATE%2C%20India-111827?style=flat-square&logo=googlemaps&logoColor=A78BFA&labelColor=0D1117" alt="Tiruchirappalli" />
 </p>
 
 <p align="center">
